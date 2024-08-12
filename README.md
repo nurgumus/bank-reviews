@@ -1,6 +1,6 @@
 # bank-reviews
 A NLP Project
-I did train a model and compared the results to a pre-trained model from huggingface.
+I did train a model and compared the results to a pre-trained model from huggingface. (roberta)
 ![image](https://github.com/user-attachments/assets/d6174f97-7460-44f8-84e0-99c483ae662b)
 
 Did a PowerBI dashboard to show if complaints decreased or not. 
